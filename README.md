@@ -308,14 +308,4 @@ if __name__ == "__main__":
 ⚠️ **Windows Defender y otros antivirus detectarán estos archivos como malware.**
 ⚠️ **No utilices este código en entornos productivos sin autorización expresa.**
 
----
 
-## 📌 ¿Qué mejorarías?
-
-1. **Cifrado asimétrico** (RSA + AES) para mayor seguridad
-2. **Protocolo de heartbeat** para mantener la conexión activa
-3. **Técnicas de anti-forense** (limpieza de logs, ocultación de procesos)
-4. **Sistema de plugins** para extender funcionalidades
-5. **Compresión de datos** para optimizar ancho de banda
-
-**¿Qué técnica de evasión te gustaría implementar primero?** 🚀
